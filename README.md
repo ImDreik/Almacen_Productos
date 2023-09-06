@@ -1,7 +1,6 @@
-# Proyecto Full Stack Almacen
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
-<a href="https://packagist.org/packages/laravel/framework"><img src="![image](https://github.com/ImDreik/Almacen_Productos/assets/130120822/668ec35c-ef42-4f08-a7a2-3980bda6ec6c)
-" alt="License"></a>
+# Proyecto Full Stack Almacen
 
 Este proyecto es un crud mern sobre un mini almacen de productos para practicar la incriptacion de contraseñas, la validacion de datos y las rutas protegidas.
 en node js
